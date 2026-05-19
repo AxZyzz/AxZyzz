@@ -86,8 +86,8 @@ superpower : Turning client problems into n8n automation flows by lunch
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AxZyzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1f33&title_color=93c5fd&icon_color=2563eb&text_color=e2e8f0&border_radius=12" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxZyzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1f33&title_color=93c5fd&text_color=e2e8f0&border_radius=12" height="180"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=AxZyzz&cc=0f1f33&tc=93c5fd&ic=2563eb&bc=0f1f33" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxZyzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1f33&title_color=93c5fd&text_color=e2e8f0&border_radius=12&cache_seconds=1800" height="180"/>
 
 </div>
 
