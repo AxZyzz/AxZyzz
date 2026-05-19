@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1f33,50:2563eb,100:93c5fd&height=220&section=header&text=Aman%20Xavier&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Co-Founder%2C%20A2B%20AI%20Technologies%20%7C%20Building%20the%20future%20with%20AI&descSize=16&descColor=93c5fd&descAlignY=60" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=🤖+AI+Automation+Engineer;🚀+Indie+Hacker+%26+SaaS+Builder;🧠+Prompt+Engineer+%26+LLM+Wrangler;🛠️+Full-Stack+Dev+(Next.js+%2B+Supabase);📍+Building+from+Trivandrum%2C+Kerala;⚡+Turning+ideas+into+products+fast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&multiline=false&width=700&lines=AI+Automation+Engineer;Indie+Hacker+%26+SaaS+Builder;Prompt+Engineer+%26+LLM+Wrangler;Full-Stack+Dev+%7C+Next.js+%2B+Supabase;Building+from+Trivandrum%2C+Kerala+%F0%9F%87%AE%F0%9F%87%B3;Turning+ideas+into+products+fast" alt="Typing SVG" />
 
 <br/>
 
