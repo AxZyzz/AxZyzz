@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1f33,50:2563eb,100:93c5fd&height=220&section=header&text=Aman%20Xavier&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Co-Founder%2C%20A2B%20AI%20Technologies%20%7C%20Building%20the%20future%20with%20AI&descSize=16&descColor=93c5fd&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1f33,50:4FBB7F,100:A8E6C3&height=220&section=header&text=Aman%20Xavier&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Co-Founder%2C%20A2B%20AI%20Technologies%20%7C%20Building%20the%20future%20with%20AI&descSize=16&descColor=A8E6C3&descAlignY=60" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&multiline=false&width=700&lines=AI+Automation+Engineer;Indie+Hacker+%26+SaaS+Builder;Prompt+Engineer+%26+LLM+Wrangler;Full-Stack+Dev+%7C+Next.js+%2B+Supabase;Building+from+Trivandrum%2C+Kerala+%F0%9F%87%AE%F0%9F%87%B3;Turning+ideas+into+products+fast" alt="Typing SVG" />
@@ -86,8 +86,8 @@ superpower : Turning client problems into n8n automation flows by lunch
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=AxZyzz&cc=0f1f33&tc=93c5fd&ic=2563eb&bc=0f1f33" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxZyzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1f33&title_color=93c5fd&text_color=e2e8f0&border_radius=12&cache_seconds=1800" height="180"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=AxZyzz&cc=0f1f33&tc=93c5fd&ic=4FBB7F&bc=0f1f33" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AxZyzz&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -148,7 +148,7 @@ superpower : Turning client problems into n8n automation flows by lunch
 - ⚔️ I do **CTF competitions** for fun — OSINT, web exploitation, the works
 - 📲 Believe in **India-first** GTM strategies before going global
 - 🧠 Currently obsessed with: **RAG architectures**, **voice AI**, and **agentic workflows**
-- 🎯 2025 goal: Get ORMA AI to 10K users
+- 🎯 2026 goal: Get ORMA AI to 10K users
 
 </details>
 
@@ -186,6 +186,6 @@ superpower : Turning client problems into n8n automation flows by lunch
 *"I build things that didn't exist yesterday."*
 
 <!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:2563eb,100:0f1f33&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6C3,50:4FBB7F,100:0f1f33&height=120&section=footer" width="100%"/>
 
 </div>
