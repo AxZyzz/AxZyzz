@@ -44,7 +44,7 @@ superpower : Turning client problems into n8n automation flows by lunch
 |--------|--------|-------------|-------|
 | **🧠 ORMA AI** | 🟡 `In Progress` | Personal memory & reminder app — named from the Malayalam word for "memory" | AI · React · Supabase |
 | **⚡ ztrike.live** | 🟢 `Live` | AI-powered white-label SEO reporting SaaS via GA4 + Search Console | GPT-4o · React · GA4 |
-| **🎭 RoastMySnap** | 🟢 `Live` | AI caricature & roast platform for India — GPT-4o Vision pipeline | Next.js · Firebase · Cloudinary |
+| **🎭 RoastMySnap.com** | 🟢 `Live` | AI caricature & roast platform for India — GPT-4o Vision pipeline | Next.js · Firebase · Cloudinary |
 | **💪 ChadGPT** | 🟢 `Live` | AI accountability coach that gives you blunt, harsh truths | Claude API · Supabase |
 | **🦆 DUCK** | 🔵 `Beta` | Brand-consistent AI image generation with 145-node n8n pipeline + RAG | n8n · RAG · Stable Diffusion |
 
