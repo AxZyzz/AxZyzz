@@ -143,6 +143,7 @@ superpower : Turning client problems into n8n automation flows by lunch
 
 - 🏗️ **Build in public** addict — I share the process, the failures, the pivots
 - 🧩 I run **A2B AI Technologies** by day and ship personal SaaS products by night
+-  Creator of **GitArt** — Fun project that became a super boom...!
 - 🌴 Proud **Keralite** — building world-class products from Trivandrum
 - 🤝 My agency has recovered **₹1Cr+** in revenue for clients using AI automation
 - ⚔️ I do **CTF competitions** for fun — OSINT, web exploitation, the works
